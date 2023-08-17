@@ -18,7 +18,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## Connect with Me
 
 Feel free to connect with me and follow my journey:
-- YouTube: [Ouail Laamiri](https://www.youtube.com/@ouaillaamiri5712))
+- YouTube: [Ouail Laamiri](https://www.youtube.com/@ouaillaamiri5712)
 - LinkedIn: [Ouail Laamiri](https://www.linkedin.com/in/ouaillaamiri/)
 - Instagram: [Ouail Laamiri](https://www.instagram.com/ouail_laamiri/)
+  
 Let's collaborate and make the coding world a better place together! 😄🚀
