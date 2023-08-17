@@ -2,14 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast. Here, you'll find a collection of my projects, contributions, and explorations in the world of coding.
 
-H   H  III  TTTTT      ttt           h            ,    '         
-H   H   I     T       tttt           h           , ,   '         
-HHHHH   I     T       t             h   , ,     , , ,  '         
-H   H   I     T       t             h    ,     , ,  ,  '         
-H   H  III    T        tt          h            ,   '  '         
-                    tt                                        
-                tttt 
-
 ## About Me
 
 - 🌍 Location: tangier,morocco
