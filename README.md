@@ -1,5 +1,5 @@
 # Hi there, I'm Ouail Laamiri! 👋
-<marquee>Hi there, I'm Ouail Laamiri! 👋</marquee>
+#<marquee>Hi there, I'm Ouail Laamiri! 👋</marquee>
 Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast. Here, you'll find a collection of my projects, contributions, and explorations in the world of coding.
 
 ## About Me
