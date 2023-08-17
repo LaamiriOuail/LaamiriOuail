@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## About Me
 
 - 🌍 Location: tangier,morocco
-- 🎓 Studied: Computer science in faculty of science and technologique 
+- 🎓 Studied: Computer science in faculty of science and technologie
 - 🌱 Currently learning: .net technologies
 
 ## 💻 Tech Stack:
