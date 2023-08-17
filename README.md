@@ -29,3 +29,4 @@ Feel free to connect with me and follow my journey:
 
   
 Let's collaborate and make the coding world a better place together! 😄🚀
+![Coding GIF](https://example.com/coding.gif)
