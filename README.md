@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## Connect with Me
 
 Feel free to connect with me and follow my journey:
-- YouTube: [Ouail Laamiri](https://www.youtube.com/@ouaillaamiri5712)
-- LinkedIn: [Ouail Laamiri](https://www.linkedin.com/in/ouaillaamiri/)
-- Instagram: [Ouail Laamiri](https://www.instagram.com/ouail_laamiri/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ouail_laamiri/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouaillaamiri/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ouaillaamiri5712)
