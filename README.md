@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laamiriouail&label=Profile%20views&color=0e75b6&style=flat" alt="laamiriouail" /> </p>
 
-- 🌱 I’m currently learning **MEAN,Django,MAUI**
+- 🌱 I’m currently learning **MEAN,Django,SQL Server,Blazor**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,C#,Graphe theory,Angular**
 
 - 📫 How to reach me **waillaamiri88@gmail.com**
 
