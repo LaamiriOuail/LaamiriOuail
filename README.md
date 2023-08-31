@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MEAN,Django,SQL Server,Blazor**
 
-- 💬 Ask me about **Python,C#,Graphe theory,Angular**
+- 💬 Ask me about **Python,C#,Typescript**
 
 - 📫 How to reach me **waillaamiri88@gmail.com**
 
