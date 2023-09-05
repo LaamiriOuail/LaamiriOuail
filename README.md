@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laamiriouail&label=Profile%20views&color=0e75b6&style=flat" alt="laamiriouail" /> </p>
 
-- 🌱 I’m currently learning **MEAN,ADO.net,Blazor WASM**
+- 🌱 I’m currently learning **.NET Technologies**
 
 - 💬 Ask me about **Python,C#,Typescript**
 
