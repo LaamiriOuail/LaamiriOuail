@@ -2,9 +2,6 @@
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laamiriouail&label=Profile%20views&color=0e75b6&style=flat" alt="laamiriouail" /> </p>
-- 🌱 I’m currently learning about **ABC** technology
-
-- 💬 Ask me about **ABC Technology**
 
 - 📫 How to reach me **waillaamiri88@gmail.com**
 
