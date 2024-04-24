@@ -2,7 +2,12 @@
 <h3 align="center">A passionate software engineer from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/LaamiriOuail&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/LaamiriOuail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/LaamiriOuail&theme=dracula" alt="https://github.com/LaamiriOuail" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LaamiriOuail&theme=dracula" alt="LaamiriOuail" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [Easy Internship](https://github.com/Search-Internship)
 - 🌱 I’m currently learning **Deep Learning**
