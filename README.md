@@ -27,19 +27,19 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaamiriOuail&layout=compact&theme=blue" alt="LaamiriOuail" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaamiriOuail&layout=compact" alt="LaamiriOuail" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaamiriOuail&show_icons=true&locale=en&theme=blue" alt="LaamiriOuail" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LaamiriOuail&show_icons=true&locale=en" alt="LaamiriOuail" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LaamiriOuail&theme=blue" alt="LaamiriOuail" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LaamiriOuail" alt="LaamiriOuail" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaamiriOuail&show_icons=true&locale=en&theme=blue" height="180em" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaamiriOuail&layout=compact&theme=blue" height="180em" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaamiriOuail&theme=blue" height="180em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaamiriOuail&show_icons=true&locale=en" height="180em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaamiriOuail&layout=compact" height="180em" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaamiriOuail" height="180em" />
 </div>
 
 <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LaamiriOuail&theme=blue"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LaamiriOuail"/>
