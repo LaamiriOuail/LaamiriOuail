@@ -8,19 +8,22 @@
 
 
 
-- 🔭 I’m currently working on [Easy Internship](https://github.com/Search-Internship)
+- 🔭 I’m currently working on [pdf2pdf]()
 - 🌱 I’m currently learning **Deep Learning**
 - 💬 Ask me about **FastAPI,Flask,Angular,Vue**
 - 📫 How to reach me **[gmail](laamiriouail@gmail.com)**
 - 👨‍💻 All of my projects are available at **[repositories](https://github.com/LaamiriOuail?tab=repositories)**
 - 📝 I regularly write articles on **[medium](https://medium.com/@laamiri.ouail)**
-- 📄 Know about my experiences **[resume](https://drive.google.com/file/d/1b8tejKMOI2Kz0Pf_ZeUBKZDyF619tYyK/view?usp=sharing)**
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 🐛💡**
 
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ouaillaamiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ouaillaamiri/" height="30" width="40" /></a><a href="https://www.youtube.com/@ouaillaamiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/@ouaillaamiri" height="30" width="40" /></a><a href="https://medium.com/@laamiri.ouail" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="https://medium.com/@laamiri.ouail" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/ouaillaamiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ouaillaamiri/" height="30" width="40" /></a><a href="https://www.youtube.com/@ouaillaamiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/@ouaillaamiri" height="30" width="40" /></a><a href="https://medium.com/@laamiri.ouail" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="https://medium.com/@laamiri.ouail" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ouaillaamiri02" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Ouail Laamiri Kaggle" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
