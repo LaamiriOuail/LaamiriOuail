@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ouail Laamiri</h1>
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h3 align="center">A passionate software/Machine Learning engineer from Morocco</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=LaamiriOuail&label=Profile%20views&color=0e75b6&style=flat" alt="LaamiriOuail" />
 </p>
