@@ -9,8 +9,8 @@
 
 
 - 🔭 I’m currently working on [*]()
-- 🌱 I’m currently learning **Deep Learning**
-- 💬 Ask me about **FastAPI,Flask,Angular,Vue**
+- 🌱 I’m currently learning *****
+- 💬 Ask me about *****
 - 📫 How to reach me **[gmail](laamiriouail@gmail.com)**
 - 👨‍💻 All of my projects are available at **[repositories](https://github.com/LaamiriOuail?tab=repositories)**
 - 📝 I regularly write articles on **[medium](https://medium.com/@laamiri.ouail)**
